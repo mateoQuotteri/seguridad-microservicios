@@ -1,0 +1,5 @@
+com\example\springbootkeycloak\controller\TestController.class
+com\example\springbootkeycloak\security\JwtAuthConverterProperties.class
+com\example\springbootkeycloak\security\WebSecurityConfig.class
+com\example\springbootkeycloak\security\JwtAuthConverter.class
+com\example\springbootkeycloak\SpringbootKeycloakApplication.class
