@@ -1,0 +1,7 @@
+com\dh\usersservice\repository\IUserRepository.class
+com\dh\usersservice\model\User.class
+com\dh\usersservice\UsersServiceApplication.class
+com\dh\usersservice\controller\UserRestController.class
+com\dh\usersservice\repository\KeyCloakRepository.class
+com\dh\usersservice\service\UserService.class
+com\dh\usersservice\configuration\KeycloakClientConfiguration.class
