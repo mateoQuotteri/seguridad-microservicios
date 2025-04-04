@@ -1,0 +1,9 @@
+com\dh\supplierdataservice\repository\ISupplierRepository.class
+com\dh\supplierdataservice\model\SupplierDTO.class
+com\dh\supplierdataservice\repository\KeyCloakRepository.class
+com\dh\supplierdataservice\SupplierServiceApplication.class
+com\dh\supplierdataservice\configuration\KeycloakClientConfiguration.class
+com\dh\supplierdataservice\service\SupplierService.class
+com\dh\supplierdataservice\controller\SupplierRestController.class
+com\dh\supplierdataservice\configuration\OAuth2ResourceServerSecurityConfiguration.class
+com\dh\supplierdataservice\configuration\KeyCloakJwtAuthenticationConverter.class

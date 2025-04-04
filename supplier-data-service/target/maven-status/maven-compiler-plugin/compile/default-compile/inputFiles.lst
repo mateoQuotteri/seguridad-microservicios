@@ -1,0 +1,9 @@
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\repository\ISupplierRepository.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\controller\SupplierRestController.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\service\SupplierService.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\model\SupplierDTO.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\configuration\KeyCloakJwtAuthenticationConverter.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\configuration\KeycloakClientConfiguration.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\configuration\OAuth2ResourceServerSecurityConfiguration.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\repository\KeyCloakRepository.java
+C:\Users\Sistema\Desktop\seguridad-microservicios\supplier-data-service\src\main\java\com\dh\supplierdataservice\SupplierServiceApplication.java

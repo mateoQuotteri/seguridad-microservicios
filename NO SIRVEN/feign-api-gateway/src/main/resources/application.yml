@@ -4,13 +4,13 @@ spring:
       client:
         provider:
           api-gateway:
-            issuer-uri: http://localhost:8080/realms/hipermarket-reino
+            issuer-uri: http://localhost:8080/realms/feign-reino
         registration:
           api-gateway:
             provider: api-gateway
             scope: openid
-            client-id: market-gateway-client
-            client-secret: bMqLTrN5CZd0JvPt8GFjDqb3GRljdt1l
+            client-id: feign-gateway-client
+            client-secret: K4N3dwxW4Fth43AyiHLbZmibW2RasSyO
             authorization-grant-type: authorization_code
             redirect-uri: http://localhost:9090/login/oauth2/code/keycloak
   cloud:
@@ -18,10 +18,10 @@ spring:
       default-filters:
         - TokenRelay
       routes:
-        - id: payment-service
+        - id: users-service
           uri: http://localhost:8082
           predicates:
-            - Path=/payment/**
+            - Path=/users/**
 server:
   port: 9090
 

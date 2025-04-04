@@ -13,6 +13,8 @@ import com.dh.paymentservice.model.SupplierDTO;
 
 import feign.Param;
 
+
+//AGREGAMOS EL INTERCEPTOR DE FEIGN
 @FeignClient(name= "subscription-service",url = "http://localhost:8083", configuration = FeignInterceptor.class)
 public interface FeignSupplierRepository {
 
